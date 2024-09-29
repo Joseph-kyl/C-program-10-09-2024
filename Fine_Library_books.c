@@ -1,4 +1,4 @@
-// Grading system
+// Library system
 #include <stdio.h>
 
 int main() {
